@@ -2,7 +2,7 @@
 -  from Linux to Windows, BSD to Windows in x64, I leave the notes in full, so You can follow the recipe.
 - 👀 I’m interested in skateboarding, photography, reading.
 - 🌱 I’m currently learning my 13 progamming language, Fortran.
-- 💞️ I’m looking to collaborate on any linux, Windows BSD, project.
+- 💞️ I’m looking to collaborate on any Linux, Windows, BSD, and now macOS programming project in order for whole cross-compilation.
 - 📫 How to reach me write me to fochoao at industrialochoa.com 
 
 <!---
