@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fochoao-code or X Fernando Ochoa-Olivares. Got full GPA, work for Microsoft, Industrial Workshop and NASA. Do my side projects to cross-compile
+- 👋 Hi, I’m @fochoao-code or X Fernando Ochoa-Olivares. Got GPA of 7.8 points, work for Microsoft, Industrial Workshop and NASA. Do my side projects to cross-compile
 -  from Linux to Windows, BSD to Windows in x64, I leave the notes in full, so You can follow the recipe.
 - 👀 I’m interested in skateboarding, photography, reading.
 - 🌱 I’m currently learning my 13 progamming language, Fortran.
